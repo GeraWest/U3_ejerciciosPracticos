@@ -27,7 +27,7 @@
 
 | Módulo | Archivo |
 |--------|----------|
-| Implementación | [Identificación de elementos de un Árbol.pdf](Identificación de elementos de un Árbol.pdf) |
+| Implementación | [IdentificacionDeElementosDeUnArbol.pdf](IdentificacionDeElementosDeUnArbol.pdf) |
 
 
 
