@@ -1,4 +1,4 @@
-# EjerciciosGuiados
+# EjerciciosPracticos
 <!--  Rey Gerardo Avalos Mellado -->
 
 <p align="center">
@@ -27,7 +27,7 @@
 
 | Módulo | Archivo |
 |--------|----------|
-| Implementación | [IdentificacióndeelementosdeunÁrbol .pdf](Identificación de elementos de un Árbol .pdf) |
+| Implementación | [Identificación de elementos de un Árbol.pdf](Identificación de elementos de un Árbol.pdf) |
 
 
 
