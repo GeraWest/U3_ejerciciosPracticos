@@ -8,7 +8,7 @@ import java.util.Set;
 
 /**
  * Aplicación para gestionar personas presentes usando Set y Swing.
- * DISEÑO VERDE aplicado.
+ * 
  */
 public class EntornoApp extends JFrame {
 
@@ -155,3 +155,4 @@ public class EntornoApp extends JFrame {
         SwingUtilities.invokeLater(() -> new EntornoApp().setVisible(true));
     }
 }
+
